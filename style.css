@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background-image: url(degradado2.png);
+}
+.boton{
+    border-radius: 40px;
+    border-width: 0px;
+}
